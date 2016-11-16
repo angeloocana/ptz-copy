@@ -1,8 +1,8 @@
 {
   "name": "ptz-copy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ptz-copy allows you to copy javascripts objects",
-  "main": "index.js",
+  "main": "dist/copy.js",
   "scripts": {
     "postinstall": "typings install",
     "pretest": "gulp js",
